@@ -1,5 +1,5 @@
 #secrets
-secrets/*
+secrets
 
 #products
 build
@@ -8,4 +8,4 @@ build
 .vscode
 
 #private files
-someUselessStuff
+someUselessStuff.txt
