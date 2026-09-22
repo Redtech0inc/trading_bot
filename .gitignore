@@ -1,5 +1,11 @@
 #secrets
-secrets
+secrets/*
 
 #products
 build
+
+#vscode files
+.vscode
+
+#private files
+someUselessStuff
