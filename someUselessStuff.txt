@@ -1,1 +1,0 @@
-${fileDirname}\\${fileBasenameNoExtension}.exe
