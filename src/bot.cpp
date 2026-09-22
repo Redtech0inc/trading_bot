@@ -16,7 +16,7 @@ int main(){
         return 1;
     }
 
-    //give it it's certification
+    //give it its certification
     curl_easy_setopt(curl, CURLOPT_CAINFO, secrets::CURL_AC_CERT_PATH);
     //configure request to request from example.com
     curl_easy_setopt(curl, CURLOPT_URL, "https://example.com");
