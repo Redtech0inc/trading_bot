@@ -9,3 +9,6 @@ build
 
 #private files
 someUselessStuff.txt
+
+#can't share due to ToS of alpha Vantage
+collected_data
